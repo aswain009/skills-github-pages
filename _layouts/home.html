@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <header>
+        <h1>{{ page.title }}</h1>
+    </header>
+    <main>
+        <!-- Display the content from the index.md -->
+        {{ content }}
+
+        <!-- Display the blog posts -->
+        <section>
+            <h2>Recent Posts</h2>
+            <ul>
+                {% for post in site.posts %}
+                <li>
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                    <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+                    <p>{{ post.excerpt }}</p>
+                </li>
+                {% endfor %}
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
