@@ -5,3 +5,5 @@ titel: Machinations of a Deranged Individual
 description: This is the place where i come to hear myself thinnk.
 author: Adam Swain
 permalink: /:categories/:year/:month/:day/:title.html
+exclude:
+  - README.md
