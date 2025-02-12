@@ -3,4 +3,4 @@ layout: home
 title: "The Mindless Musings Of a MadMan."
 ---
 
-Just seeing if this works.
+This is a place where I get to vent, ruminate, think, and spill the thoughts that come to my mind.
