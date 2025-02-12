@@ -1,3 +1,3 @@
 <header>
-
-</footer>
+The Mindless Musings Of a MadMan. 
+</header>
