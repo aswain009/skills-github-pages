@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: home
 title: "The Mindless Musings Of a MadMan."
-categories: blog
 ---
 
 Just seeing if this works.
