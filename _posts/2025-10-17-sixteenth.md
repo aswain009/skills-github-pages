@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Posting a blog while im thinking about it."
+title: "Posting a blog for.... who know anymore."
 date: 2025-10-17 12:00:00 -0000
 categories: blog
 excerpt: "Honestly I dont know what to write about."
